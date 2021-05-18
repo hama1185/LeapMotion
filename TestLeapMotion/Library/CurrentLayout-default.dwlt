@@ -73,7 +73,7 @@ MonoBehaviour:
   m_MinSize: {x: 576, y: 471}
   m_MaxSize: {x: 12001, y: 14042}
   vertical: 0
-  controlID: 17
+  controlID: 26
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 576, y: 471}
   m_MaxSize: {x: 12001, y: 14042}
   vertical: 1
-  controlID: 18
+  controlID: 27
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 576, y: 200}
   m_MaxSize: {x: 12001, y: 4021}
   vertical: 0
-  controlID: 19
+  controlID: 28
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -467,20 +467,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/LMRealisticMaleHands/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/LMRealisticMaleHands/Prefabs
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\hamat\prog\TestBarracuda\Barracuda
+  m_LastProjectPath: C:\Users\hamat\prog\LeapMotion\TestLeapMotion
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 507}
-    m_SelectedIDs: d0360000
-    m_LastClickedID: 14032
-    m_ExpandedIDs: 00000000c2360000184e0000a04f0000a2b600000eb7000066b70000b8b700001cb8000000ca9a3b
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: a6370000
+    m_LastClickedID: 14246
+    m_ExpandedIDs: 00000000683700006a3700006c370000dc370000de3700006838000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -508,7 +508,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c2360000
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -595,7 +595,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 0676fdff2676fdff0878fdff66a3fdff9cf9ffffaaf9ffffb8f9ffff8afaffff94faffff26fbffff
+      m_ExpandedIDs: 72ecffff7eecffffd2eeffffd0f1ffff92f3ffffdaf5ffffa2faffff4afbffff443a0000ee400000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -640,9 +640,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 820
+    x: 704.8
     y: 73.6
-    width: 715
+    width: 830
     height: 408
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
@@ -655,9 +655,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 446.79306, y: 241.68478, z: 0.3472734}
+    m_Target: {x: 0, y: 0, z: 0}
     speed: 2
-    m_Value: {x: 446.79306, y: 241.68478, z: 0.3472734}
+    m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -707,9 +707,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
-    m_Target: 30.777485
+    m_Target: 1.7156973
     speed: 2
-    m_Value: 30.777485
+    m_Value: 1.7156973
   m_Ortho:
     m_Target: 0
     speed: 2
